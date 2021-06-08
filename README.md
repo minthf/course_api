@@ -1,4 +1,4 @@
-#Courses API
+# Courses API
 
 ## Setup
 
@@ -31,6 +31,6 @@ Once `pip` has finished downloading the dependencies:
 ```
 And navigate to `http://127.0.0.1:8000/`.
 
-##API documentation
+## API documentation
 
 https://courses24.docs.apiary.io/
